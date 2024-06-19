@@ -1,9 +1,9 @@
 Owner
-* SH YAM
+* Shyam
 
 ```
 rm -rf FILE
-git clone --depth=1 https://github.com/SH YAM-404/FILE
+git clone --depth=1 https://github.com/Shyam-404/FILE
 cd FILE
 python FILE.py
 ```
